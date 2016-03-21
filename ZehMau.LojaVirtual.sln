@@ -5,6 +5,10 @@ VisualStudioVersion = 14.0.24720.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZehMau.LojaVirtual.Dominio", "ZehMau.LojaVirtual.Dominio\ZehMau.LojaVirtual.Dominio.csproj", "{7B7A03FC-9039-430B-9C6A-2B6D8187B41F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZehMau.LojaVirtual.Web", "ZehMau.LojaVirtual.Web\ZehMau.LojaVirtual.Web.csproj", "{0A9E4AC2-BB38-412E-AA04-6503933BF47B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZehMau.LojaVirtual.UnitTest", "ZehMau.LojaVirtual.UnitTest\ZehMau.LojaVirtual.UnitTest.csproj", "{8900E897-3B89-4463-B415-296DA6A69D88}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{7B7A03FC-9039-430B-9C6A-2B6D8187B41F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7B7A03FC-9039-430B-9C6A-2B6D8187B41F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7B7A03FC-9039-430B-9C6A-2B6D8187B41F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A9E4AC2-BB38-412E-AA04-6503933BF47B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A9E4AC2-BB38-412E-AA04-6503933BF47B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A9E4AC2-BB38-412E-AA04-6503933BF47B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A9E4AC2-BB38-412E-AA04-6503933BF47B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8900E897-3B89-4463-B415-296DA6A69D88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8900E897-3B89-4463-B415-296DA6A69D88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8900E897-3B89-4463-B415-296DA6A69D88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8900E897-3B89-4463-B415-296DA6A69D88}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
